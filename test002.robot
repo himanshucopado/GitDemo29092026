@@ -6,7 +6,9 @@ Suite Teardown        Closeallbrowsers
 
 *** Test Cases ***
 Test002
+    [Tags]    regression
     Log To Console    tets002
+    LogScreenshot
 
 Test003
     Log To Console    tets003
