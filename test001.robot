@@ -1,8 +1,8 @@
 *** Settings ***
-Documentation    GIT Demo Test
-Library    QForce
-Suite Setup    OpenBrowser    about:blank    chrome
-Suite Teardown    Closeallbrowsers
+Documentation         GIT Demo Test
+Library               QForce
+Suite Setup           OpenBrowser         about:blank    chrome
+Suite Teardown        Closeallbrowsers
 
 *** Test Cases ***
 Test001
