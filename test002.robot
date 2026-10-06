@@ -12,3 +12,6 @@ Test002
 
 Test003
     Log To Console    tets003
+
+Test004
+    Log To Console    tets004
