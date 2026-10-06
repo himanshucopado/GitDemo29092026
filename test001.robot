@@ -7,3 +7,6 @@ Suite Teardown        Closeallbrowsers
 *** Test Cases ***
 Test001
     Log To Console    tets001
+
+Test002
+    Log To Console    tets002
